@@ -1,3 +1,5 @@
 print("Menu de Operaciones")
 print("Seleccione una Opcion")
-
+print("Opcion 1: Suma")
+print("Opcion 2: Resta")
+print("Opcion 3: Multiplicacion")
